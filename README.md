@@ -18,5 +18,9 @@ The main colors of this project are:
 - Purple: `#5c37c0`
 - Translucid with / Glass `#ffffffa4`
 
+## Features
+- Time
+- Search Bar
+- Random Jokes
 
 You can try it [Here](https://brundevcoder.github.io/tab/)
