@@ -17,6 +17,9 @@ When you click to search, the site will take you to a Google search page showing
 The main colors of this project are:
 - Purple: `#5c37c0`
 - Translucid with / Glass `#ffffffa4`
+I tried making a clean and simple UI.
+
+And Also, All the fonts you see in this project, are called `Syne` and `Outfit`, importen by Google fonts: `https://fonts.google.com/`
 
 ## Features
 - Time
